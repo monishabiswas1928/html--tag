@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MY PERSONAL WEBSITE</title>
+</head>
+<body>
+
+<h1>
+<b>
+<i><h1 style="background-color:MediumOrchid;">WELCOME TO MY WEBSITE</h1>
+<p> I am Monisha Biswas.I am a student of Daffodil International University at the department of CSE.
+
+</i>
+</b>
+</p>
+<ul>
+    <li>Faculty of Science and Information Technology</li>
+</ul>
+
+
+
+<h2> <mark>An Unordered HTML List</mark></h2>
+
+
+<ul>
+  <li>Bangla</li>
+  <li>English</li>
+  <li>Math</li>
+</ul>  
+
+<h2> <mark>An Ordered HTML List</mark></h2>
+
+<ol>
+<li>Bangla</li>
+  <li>English</li>
+  <li>Math</li>
+  
+</ol>
+
+
+<pre>
+I am Monisha Biswas.
+I am a student of Daffodil International University at the department of CSE.
+</pre>
+EQUATION- (1)
+           <mark>E=mc<sup>2</sup></mark>
+
+EQUATION-(2)
+          <mark>H<sub>2</sub>O</mark>
+         
+
+<style>
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+ 
+  <tr>
+    <th>NAME</th>
+    <th>ID</th>
+    <th>DEPARTMENT</th>
+  </tr>
+  <tr>
+    <td>Monisha </td>
+    <td>1928</td>
+    <td>CSE</td>
+  </tr>
+  <tr>
+    <td>Shammi</td>
+    <td>1994</td>
+    <td>CSE</td>
+  </tr>
+  <tr>
+    <td>Shohan</td>
+    <td>1887</td>
+    <td>CSE</td>
+  </tr>
+  
+  </tr>
+</table>
+
+<video
+   width="400" controls>
+  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  
+</video>
+
+<p> 
+
+Video courtesy of 
+<a href="<iframe width="853" height="480" src="https://www.youtube.com/embed/VjvQ2xrgnec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> target="_blank">Big Buck Bunny</a>."
+</p>
+<form>
+         <input type="text value"="Enter your name/>"
+         <input type="text value"="passward/>
+        "<input type="text value"="number/>"
+<br/>
+         <input type="submit"value =Add/>"
+		 <input type="submit"value =1/>"
+		 <input type="submit"value =2/>"
+		 <input type="submit"value =3/>"
+<br/>
+         <span> Gender</span>
+         <input type "radio" value ="Male"/>
+         <input type "radio" value ="Female"/>
+         <input type "radio" value ="Other"/>
+<select>
+        <option value ="1" option 1 </option>		 
+        <option value ="2" option 2</option>
+        <option value ="3" option 3 </option>
+		
+		</select>
+		
+		<style>
+img {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+
+<h2><h1 style="background-color:Violet;">Rounded Images</h1></h2>
+<p>Use the border-radius property to create circled images:</p>
+
+<img src="tanni.jpg" alt="tanni" width="300" height="300">
+
+<style>
+body {
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<h1><style>
+body {
+  background-image: url("paper.gif");
+}
+</style>
+</head>
+<body>
+
+<h1>MONISHA</h1>
+
+<p></p>
+MONISHA</h1>
+
+<p></p>
+
+
+
+		
+
+
+
+</body>
+</html>
